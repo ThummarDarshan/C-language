@@ -26,6 +26,7 @@ void main()
         printf("\nyou are lose");
 
     }
-
+ printf("\nNAME = Thummar Darshan ");
+    printf("\n ID=24TCEVT0");
 
 }
