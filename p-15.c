@@ -33,4 +33,7 @@ void main()
      printf("\nnegetive number=%d",nege);
       printf("\neven number=%d",even);
        printf("\nodd number=%d",odd);
+    printf("\nName=Darshan Thummar");
+prntf("\nId=24TCEVT0");
+
 }
