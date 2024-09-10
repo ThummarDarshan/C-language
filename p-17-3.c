@@ -1,6 +1,4 @@
-/*program by manush desai cspit ce
-aim:-booking tickets code
-date:-11 aug*/
+
 
 #include <stdio.h>
 int main()
