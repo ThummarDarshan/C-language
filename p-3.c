@@ -6,6 +6,6 @@ void main()
     interst=p*r*t/100;
     printf("Total interst is=%d",interst);
     printf("\nNAME = Thummar Darshan ");
-    printf("\n ID=24TCEVT0");
+    printf("\n ID=24CE127");
 }
 
