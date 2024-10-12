@@ -39,4 +39,6 @@ int seats[5][10]={0},number,i,row,col,j,k;
                     printf("\n");
         }
 }
+  printf("\nNAME :- Thummar Darshan");
+  printf("ID :- 24CE127");
 }
