@@ -7,6 +7,6 @@ void main()
     (marks>=90) ? printf("Grade is A") : (marks>=80&&marks<90) ?  printf("Grade is B") : (marks>=70&&marks<80) ? printf("Grade is C") :
         (marks>=60&&marks<70) ? printf("Grade is D") : (marks<60) ? printf("Grade is E"): printf(" Invalid Input");
 printf("\nNAME = Thummar Darshan ");
-    printf("\n ID=24TCEVT0");
+    printf("\n ID=24CE127");
 
 }
