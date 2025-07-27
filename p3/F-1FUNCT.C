@@ -1,0 +1,18 @@
+// no argument and no return type
+
+#include<stdio.h>
+#include<conio.h>
+void sum()
+{
+	int a=100,b=20;
+	clrscr();
+	printf("the addition is=%d",a+b);
+	printf("\nthe subtraction is=%d",a-b);
+	printf("\nthe multiplication is=%d",a*b);
+	printf("\nthe division is=%d",a/b);
+}
+void main()
+{
+	sum();
+	getch();
+}
