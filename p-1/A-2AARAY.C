@@ -1,3 +1,4 @@
+
 // SATIK VAKUE AARAY REVERS
 
 #include<stdio.h>
